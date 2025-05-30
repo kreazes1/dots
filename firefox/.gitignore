@@ -1,0 +1,15 @@
+default/cache2/
+default/minidumps/
+default/startupCache/
+default/storage/
+default/crashes/
+default/lock*
+default/*.sqlite
+default/*.sqlite-shm
+default/*.sqlite-wal
+default/*.db
+default/logins.json
+default/cookies.sqlite
+default/key4.db
+default/sessionstore*
+default/times.json
